@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StudentTracker3</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_term_summary">Terms</string>
+    <string name="title_activity_term_summary">TermSummaryActivity</string>
+    <string name="title_activity_term_detail">TermDetailActivity</string>
+</resources>
